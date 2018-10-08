@@ -1,0 +1,6 @@
+dist: xenial
+sudo: required
+language:
+  - generic
+cache:
+  - apt
